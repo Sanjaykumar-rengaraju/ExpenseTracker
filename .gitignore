@@ -1,0 +1,35 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# Logs
+*.log
+
+# Dependency directories
+.pnp
+.pnp.js
+
+# Environment files
+.env
+.env.*.local
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Temporary files
+tmp/
+temp/
