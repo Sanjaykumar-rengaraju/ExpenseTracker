@@ -19,5 +19,5 @@ A simple and intuitive expense tracker application built with React. This app al
     npm install
 
     npm run dev
-
+   ```
 ![UI Screenshot](public/UI.png)
