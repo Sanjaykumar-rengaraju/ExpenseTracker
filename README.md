@@ -12,12 +12,12 @@ A simple and intuitive expense tracker application built with React. This app al
 
 ## Installation
 
-1. **Clone the repository:**
-
    ```bash
-   git clone https://github.com/Sanjaykumar-rengaraju/ExpenseTracker.git
-   cd ExpenseTracker
+    git clone https://github.com/Sanjaykumar-rengaraju/ExpenseTracker.git
+    cd ExpenseTracker
 
-2. **npm install**
+    npm install
 
-3. **npm run dev**
+    npm run dev
+
+![UI Screenshot](public/UI.png)
